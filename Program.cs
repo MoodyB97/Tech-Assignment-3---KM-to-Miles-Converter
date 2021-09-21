@@ -39,7 +39,7 @@ namespace Tech_Assignment_3___KM_to_Miles_Converter
                         //Writes the distance in kilometers
                         Console.WriteLine("Miles");
                         //Writes a kilometers in Miles heading
-                        Console.WriteLine(i / 1.62);
+                        Console.WriteLine(i * .621371);
                         //Converts kilometers into miles
 
                     }
